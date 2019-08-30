@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <package format="2">
-  <name>listener_extend</name>
+  <name>rospy_tutorials_listener_extend</name>
   <version>0.0.0</version>
   <description>The listener_extend package</description>
 
